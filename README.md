@@ -2,11 +2,11 @@
 
 **`📊 Cientista de Dados`**
 
-Olá! Me chamo Rebeca Nascimento Oliveira, tenho 20 anos e sou estudante de Ciência de Dados na Fatec - Baixada Santista.
+Olá! Me chamo Rebeca Oliveira e sou formada em Ciência de Dados pela Fatec Rubens Lara.
 
 Ao longo da minha formação, venho desenvolvendo habilidades em Python, Pandas, NumPy, Scikit-Learn, SQL, entre outras ferramentas voltadas para análise e ciência de dados.
 
-Neste GitHub, compartilho projetos acadêmicos, estudos independentes e desafios práticos que venho explorando para aprofundar meus conhecimentos. Meu objetivo é transformar o que aprendo em projetos concretos e seguir evoluindo como cientista de dados.
+Neste GitHub, compartilho projetos acadêmicos, estudos independentes e desafios práticos que venho explorando para aprofundar meus conhecimentos.
 
 ---
 
